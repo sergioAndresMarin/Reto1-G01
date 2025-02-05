@@ -69,7 +69,7 @@ To use this template, you need to follow the steps below:
 * Download the official dataset for the project at the course official site at[BrightSpace][BrightSpace-url].
 * Unzip and load the dataset into the application at [Data](./Data) folder.
 * Implement the missing functions according to the project needs in the MVC scripts at [App](./App) folder.
-* Evaluate the implementation of the MVC scripts, record your tests and analysis in the documents at [Docs](./Docs) folder (The report **MUST BE** in PDF format).
+* Evaluate the implementation of the logic and view scripts, record your tests and analysis in the documents at [Docs](./Docs) folder (The report **MUST BE** in PDF format).
 
 [Back to top](#retos-template)
 
@@ -78,8 +78,7 @@ To use this template, you need to follow the steps below:
 
 For further information and contact, use the following links:
 
-* Official Repository [DISClib][disclib-url].
-* Repository for [Demo and Examples][demo-url].
+* Official Documentation [Data Structures Documentation][data-struc-url].
   
 If you require further information, please contact us [via this email](mailto:isis1225@uniandes.edu.co)
 
